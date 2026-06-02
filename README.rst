@@ -1,17 +1,13 @@
-.. image:: https://raw.githubusercontent.com/giotto-ai/pyflagser/master/doc/images/Giotto_logo_RGB.svg
-   :width: 590
-
-
 =========
 flagserpy
 =========
 
-``flagserpy`` is a python API for the flagser C++ library by Daniel Lütgehetmann which computes the homology of directed flag complexes, its forked from pyflagser which is no longer being actively maintained. Please check out the original `luetge/flagser <https://github.com/luetge/flagser>`_ GitHub repository for more information.
+``flagserpy`` is a python API for the flagser C++ library by Daniel Lütgehetmann which computes the homology of directed flag complexes, it's forked from pyflagser which is no longer being actively maintained. Please check out the original `luetge/flagser <https://github.com/luetge/flagser>`_ GitHub repository for more information.
 
 Project genesis
 ---------------
 
-``pyflagser`` is the result of a collaborative effort between `L2F SA <https://www.l2f.ch/>`_, the `Laboratory for Topology and Neuroscience <https://www.epfl.ch/labs/hessbellwald-lab/>`_ at EPFL, and the `Institute of Reconfigurable & Embedded Digital Systems (REDS) <https://heig-vd.ch/en/research/reds>`_ of HEIG-VD. ``flagserpy`` is a continuation of this project by [Jason P. Smith (NTU)](https://jasonpsmith.github.io/) and the [Algebraic Topology and Networks in Biology](https://www.mpi-cbg.de/research/researchgroups/currentgroups/daniela-egas-santander/research-focus) of the Max Planck Institute of Molecular Cell Biology and Genetics.
+``pyflagser`` is the result of a collaborative effort between `L2F SA <https://www.l2f.ch/>`_, the `Laboratory for Topology and Neuroscience <https://www.epfl.ch/labs/hessbellwald-lab/>`_ at EPFL, and the `Institute of Reconfigurable & Embedded Digital Systems (REDS) <https://heig-vd.ch/en/research/reds>`_ of HEIG-VD. ``flagserpy`` is a continuation of this project by `Jason P. Smith (NTU) <https://jasonpsmith.github.io/>`_ and the `Algebraic Topology and Networks in Biology <https://www.mpi-cbg.de/research/researchgroups/currentgroups/daniela-egas-santander/research-focus>`_ of the Max Planck Institute of Molecular Cell Biology and Genetics.
 
 Installation
 ------------
@@ -40,7 +36,7 @@ API reference (stable release): https://docs-pyflagser.giotto.ai
 Contributing
 ------------
 
-We welcome new contributors of all experience levels. To learn more about making a contribution to ``flagserpy``, please see the `CONTRIBUTING.rst file.
+We welcome new contributors of all experience levels.
 
 Developer installation
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +45,7 @@ C++ dependencies:
 '''''''''''''''''
 
 -  C++14 compatible compiler
--  CMake >= 3.9
+-  CMake >= 3.15
 
 Source code
 '''''''''''
