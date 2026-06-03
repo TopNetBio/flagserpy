@@ -4,7 +4,7 @@ build-backend = "scikit_build_core.build"
 
 [project]
 name = "flagserpy"
-version = "0.4.7"
+version = "0.1.0"
 description = "Python bindings for the flagser C++ library."
 readme = "README.rst"
 license = { file = "LICENSE" }
