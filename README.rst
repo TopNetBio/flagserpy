@@ -77,7 +77,7 @@ After installation, you can launch the test suite from outside the source direct
 Changelog
 ---------
 
-See the `RELEASE.rst file for a history of notable changes to flagserpy.
+See the RELEASE.rst file for a history of notable changes to flagserpy.
 
 Important links
 ~~~~~~~~~~~~~~~
